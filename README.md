@@ -2,7 +2,7 @@
 
 A high-performance, terminal-based management tool for ComfyUI. This utility automates the process of cloning, updating, and managing dependencies for over 40+ of the most powerful custom nodes in the ecosystem.
 
-
+<img width="822" height="683" alt="Screenshot 2026-02-01 220044" src="https://github.com/user-attachments/assets/5438d8a4-dc48-432a-ba80-80348572d3a5" />
 
 ## ✨ Features
 
@@ -17,7 +17,6 @@ A high-performance, terminal-based management tool for ComfyUI. This utility aut
 1.  **Placement:** Move `Node_manager.bat` and `manager.py` into your **root ComfyUI directory** (the folder containing your `venv` and the `ComfyUI` source folder).
 2.  **Git:** Ensure you have [Git](https://git-scm.com/) installed on your Windows machine.
 3.  **Run:** Double-click `Node_manager.bat`.
-<img width="822" height="683" alt="Screenshot 2026-02-01 220044" src="https://github.com/user-attachments/assets/5438d8a4-dc48-432a-ba80-80348572d3a5" />
 
 ## 📂 Project Structure
 
